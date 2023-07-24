@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f03436a6.css",
+    "main.js": "/static/js/main.7f99a5c3.js",
+    "static/media/lalkila.png": "/static/media/lalkila.c4340fae80be8e772fba.png",
+    "static/media/background1.png": "/static/media/background1.4670aa36a591303906b7.png",
+    "static/media/image2.png": "/static/media/image2.af9fb93c2f16be65fe06.png",
+    "static/media/image.png": "/static/media/image.60c3daa80fb586dede1a.png",
+    "static/media/logo.png": "/static/media/logo.bfd47fcb356596503ea6.png",
+    "static/media/three.png": "/static/media/three.1e12f625040b81a816b5.png",
+    "index.html": "/index.html",
+    "main.f03436a6.css.map": "/static/css/main.f03436a6.css.map",
+    "main.7f99a5c3.js.map": "/static/js/main.7f99a5c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f03436a6.css",
+    "static/js/main.7f99a5c3.js"
+  ]
+}

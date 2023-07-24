@@ -1,8 +1,8 @@
 
-
 body {
   background-color: #fff;
 }
+
 .ag-courses_box {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -651,7 +651,7 @@ body {
 
 
 .containers{
-    /* width: 700px; */
+    width: 700px;
     position: relative;
     display: flex;
     justify-content: center;
