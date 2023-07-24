@@ -552,7 +552,7 @@ body {
     --box-shadow-color: #727aab;;
   }
   
-  .card {
+  .card{
     width: 320px;
     height: 421px;
     background: #fff;
@@ -650,12 +650,8 @@ body {
 
 
 
-
-
-
-
 .containers{
-    width: 700px;
+    /* width: 700px; */
     position: relative;
     display: flex;
     justify-content: center;
