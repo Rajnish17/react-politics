@@ -20,6 +20,9 @@ const Section7 = () => {
           </small>
         </div>
       </div>
+
+
+      
       <div className="clearfix" />
       <div className="containers ">
         <div className="cards">

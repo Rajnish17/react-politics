@@ -1,0 +1,17 @@
+.signup-form-container h1 {
+  color: black;
+  font-size: 24px;
+  padding: 20px;
+}
+
+.signup-button {
+  box-sizing: border-box;
+  color: white;
+  font-size: 14px;
+  padding: 13px;
+  border-radius: 7px;
+  border: none;
+  width: 250px;
+  outline: none;
+  background-color: rgb(56, 189, 149);  
+}

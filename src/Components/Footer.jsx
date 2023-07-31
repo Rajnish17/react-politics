@@ -38,7 +38,8 @@ const Footer = () => {
                 </li>
                 <li>
                   <a href="#">
-                    <i className="bi bi-instagram" />
+                  <i class="bi bi-instagram"></i>
+                    
                   </a>
                 </li>
                 <li>
